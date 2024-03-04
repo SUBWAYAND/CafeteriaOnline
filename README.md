@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+Cafetería Online con React / Online Café with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta aplicación de cafetería online, construida utilizando React, ofrece una experiencia de compra conveniente y atractiva para los amantes del café. Diseñada con una interfaz moderna y funcionalidades avanzadas, esta aplicación proporciona a los usuarios la capacidad de explorar, seleccionar y ordenar una amplia variedad de productos de café desde la comodidad de sus hogares.
 
-## Available Scripts
+Características Principales:
 
-In the project directory, you can run:
+- Catálogo Amplio: La aplicación presenta un extenso catálogo de productos de café, que incluye diferentes tipos de café, tés, pasteles y otros productos relacionados.
+- Navegación Intuitiva: Los usuarios pueden navegar fácilmente por el catálogo utilizando filtros, categorías y funciones de búsqueda, lo que les permite encontrar rápidamente los productos que desean.
+- Personalización de Pedidos: Los clientes tienen la opción de personalizar sus pedidos, como elegir el tamaño del café, el tipo de leche y agregar ingredientes adicionales según sus preferencias individuales.
+- Proceso de Compra Simplificado: La aplicación ofrece un proceso de compra intuitivo y sin complicaciones, que incluye la selección de productos, el ingreso de la información de pago y la confirmación del pedido.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Tecnologías Utilizadas:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React: La aplicación está desarrollada utilizando React, un framework de JavaScript popular y potente, que proporciona una interfaz de usuario dinámica y receptiva.
+- CSS Modules: Los estilos de la aplicación se implementan utilizando CSS Modules, lo que permite una organización modular y mantenible del código CSS.
 
-### `npm test`
+Instalación y Uso:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Este proyecto lo comparto con las personas que deseén practicar al igual que yo. Con gusto clona este proyecto que tanto me gusto hacer. 
 
-### `npm run build`
+Online Café with React
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This online café application, built using React, offers a convenient and attractive shopping experience for coffee enthusiasts. Designed with a modern interface and advanced functionalities, this application empowers users to explore, select, and order a wide variety of coffee products from the comfort of their homes.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Key Features:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Extensive Catalog: The application presents an extensive catalog of coffee products, including different types of coffee, teas, pastries, and other related items.
+- Intuitive Navigation: Users can easily navigate through the catalog using filters, categories, and search functions, enabling them to quickly find the products they desire.
+- Order Customization: Customers have the option to customize their orders, such as choosing the coffee size, type of milk, and adding additional ingredients according to their individual preferences.
+- Simplified Checkout Process: The application offers an intuitive and hassle-free checkout process, including product selection, payment information input, and order confirmation.
 
-### `npm run eject`
+Technologies Used:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- React: The application is developed using React, a popular and powerful JavaScript framework that provides a dynamic and responsive user interface.
+- CSS Modules: Application styles are implemented using CSS Modules, allowing for modular and maintainable organization of the CSS code.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Installation and Usage:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is shared with people who wish to practice just like me. Feel free to clone this project that I enjoyed making so much.
